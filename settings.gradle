@@ -1,0 +1,3 @@
+rootProject.name='LibrariesApp'
+include ':app'
+include ':cinepolistestapi'
